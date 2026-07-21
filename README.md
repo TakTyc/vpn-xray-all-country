@@ -32,7 +32,7 @@ Each folder contains:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/xray-vpn-countries.git
+   git clone https://[https://github.com/TakTyc/vpn-xray-all-country]
 Choose your preferred country folder.
 
 Import config.json into your Xray client (e.g., v2rayN, Nekoray, Shadowrocket).
